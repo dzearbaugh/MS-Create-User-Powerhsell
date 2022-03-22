@@ -1,4 +1,4 @@
-# createuser_powershell
+#MS-Create-User-Powershell
 Create User within Microsoft Office 365
 
 ACCOUNT CREATION AUTOMATION
