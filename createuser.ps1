@@ -169,7 +169,7 @@ $setaddress = Read-Host "Location?
 if($setaddress -eq 1){
    $Company = "Company Name"
    $Office = ""
-   $StreetAddress = "Number Stree"
+   $StreetAddress = "Number Street"
    $City = "City" 
    $State = "2 Digit State"
    $PostCode = "Zip Code"
@@ -178,7 +178,7 @@ if($setaddress -eq 1){
 elseif($setaddress -eq 2) {
    $Company = "Company Name"
    $Office = ""
-   $StreetAddress = "Number Stree"
+   $StreetAddress = "Number Street"
    $City = "City" 
    $State = "2 Digit State"
    $PostCode = "Zip Code"
@@ -187,7 +187,7 @@ elseif($setaddress -eq 2) {
 else {
    $Company = "Company Name"
    $Office = ""
-   $StreetAddress = "Number Stree"
+   $StreetAddress = "Number Street"
    $City = "City" 
    $State = "2 Digit State"
    $PostCode = "Zip Code"
