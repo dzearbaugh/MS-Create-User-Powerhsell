@@ -14,9 +14,9 @@ By David Zearbaugh - 3/22/2022
 Original scipt by Josh McMullin - 
 https://community.spiceworks.com/topic/2249950-powershell-automate-user-and-mailbox-creation
 
-
+*************************************************************************************
 IMPORTANT! UPDATE STEPS A, B, & C PRIOR TO ATTEMPTING RUN
-
+*************************************************************************************
 
 A. PREREQUISITES - WHAT YOU NEED PRIOR TO RUNNING
 B. VARIIABLE SETUP - ENTER INSTITUTIONAL DATA
