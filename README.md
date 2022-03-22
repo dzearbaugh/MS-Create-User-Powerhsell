@@ -41,7 +41,6 @@ SECTION 9 -  Adds User to Teams
 SECTION 10 - Disconnecting from Modules
 SECTION 11 - Printing New User Information
 
-
 *************************************************************************************
 A. PREREQUISITES
 *************************************************************************************
