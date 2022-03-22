@@ -10,7 +10,7 @@
 # *******************************************************************************************************************************
 # By David Zearbaugh - 3/22/2022
 #
-# Original scipt by Josh McMullin - 
+# Original script by Josh McMullin - 
 # https://community.spiceworks.com/topic/2249950-powershell-automate-user-and-mailbox-creation
 #********************************************************************************************************************************
 #
